@@ -2,9 +2,9 @@
 
 # Abubeker Abdulaziz
 
-**Software Developer** · Backend & Systems · Building scalable enterprise solutions from 🇪🇹 Ethiopia
+**Software Developer** · Backend & Systems · Building scalable web-app solutions from Ethiopia
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Abubeker95&color=00e5cc&style=flat-square&label=profile+views)](https://github.com/Abubeker95)
+
 
 </div>
 
@@ -77,5 +77,5 @@
 ---
 
 <div align="center">
-  <sub>Built with ☕ and clean code from Addis Ababa 🇪🇹</sub>
+  <sub>Abubeker Abdulaziz</sub>
 </div>
