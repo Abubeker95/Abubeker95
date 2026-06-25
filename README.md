@@ -2,7 +2,7 @@
 
 # Abubeker Abdulaziz
 
-**Software Developer** · Backend & Systems · Building scalable web-app solutions from Ethiopia
+**Software Developer** · Full-stack · Building scalable web-app solutions from Ethiopia
 
 
 
@@ -10,17 +10,17 @@
 
 ---
 
-## `// about`
+## `About`
 
 - 🌍 Based in **Addis Ababa, Ethiopia**
-- 💼 Working on **enterprise-level applications and management systems**
-- 🔭 Focused on **Backend Development, System Design, Databases & Cloud Technologies**
+- 💼 Curently Working on **web applications and job-portal system for Addis Bank**
+- 🔭 Focused on **Fullstack Development, System Design, Databases & Cloud Technologies**
 - 🌱 Always learning and improving my development skills
 - ⚡ Passionate about building **scalable web applications and backend systems**
 
 ---
 
-## `// tech stack`
+## `Tech stack`
 
 **Languages**
 
@@ -64,7 +64,7 @@
 
 ---
 
-## `// connect`
+## `Connect`
 
 <div align="center">
 
