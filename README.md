@@ -1,9 +1,5 @@
 <div align="center">
 
-```
-~/github/$ cat README.md
-```
-
 # Abubeker Abdulaziz
 
 **Software Developer** · Backend & Systems · Building scalable enterprise solutions from 🇪🇹 Ethiopia
@@ -66,16 +62,6 @@
 
 ---
 
-## `// github stats`
-
-<div align="center">
-
-![Abubeker's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abubeker95&show_icons=true&theme=github_dark&hide_border=true&title_color=00e5cc&icon_color=00e5cc&text_color=e6edf3&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abubeker95&layout=compact&theme=github_dark&hide_border=true&title_color=00e5cc&text_color=e6edf3&bg_color=0d1117)
-
-</div>
-
 ---
 
 ## `// connect`
@@ -83,8 +69,8 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abubeker95)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Abubeker95)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Abubekerabdulaziz)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abubekerabdulaziz95@email.com)
 
 </div>
 
