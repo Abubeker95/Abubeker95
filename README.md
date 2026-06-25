@@ -1,1 +1,95 @@
-<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="content-security-policy" content="default-src &#39;none&#39;; script-src &#39;nonce-5nlQlIZMlpb3aPxEUDRpby&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv="refresh" content="360"></head><body><div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce="5nlQlIZMlpb3aPxEUDRpby">(function(){window._cf_chl_opt = {cFPWv: 'b',cH: 'NpF73NehwbLwFDjplF6.eYWIZbQXIQ7.ur_PuZmwSiw-1782387190-1.2.1.1-9IMqedXaRg1FmCLzhAi0qZuj.u_R6wI_QsAkEPEr3SFw6Uhh08b4f2jPRTmE5zt1',cITimeS: '1782387190',cN: '5nlQlIZMlpb3aPxEUDRpby',cRay: 'a113a7e21e8c4b73',cTplB: '0',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:"/api/organizations/1e897cd8-b169-465a-832f-a7f89d6d956d/conversations/bb3ae5b8-48a9-4857-acd7-6b1e786dc574/wiggle/download-file?path=%2Fmnt%2Fuser-data%2Foutputs%2FREADME.md\u0026__cf_chl_tk=VcXHDBJI8KA9obQWdXaxL.a8lzDNgVm_7roDx5wwcws-1782387190-1.0.1.1-XnKcLa0_D7tAo9O_lJOjINUpkJhu3JlTETLuqAVyicQ",cvId: '3',cZone: 'claude.ai',fa:"/api/organizations/1e897cd8-b169-465a-832f-a7f89d6d956d/conversations/bb3ae5b8-48a9-4857-acd7-6b1e786dc574/wiggle/download-file?path=%2Fmnt%2Fuser-data%2Foutputs%2FREADME.md\u0026__cf_chl_f_tk=VcXHDBJI8KA9obQWdXaxL.a8lzDNgVm_7roDx5wwcws-1782387190-1.0.1.1-XnKcLa0_D7tAo9O_lJOjINUpkJhu3JlTETLuqAVyicQ",md: '2gdh_RpZtvrfGkdgBCjyevA0aGUiJGQG5w2xbDzro.w-1782387190-1.2.1.1-q72SeegaFsksTxVW8LLbCQSqPN62hmAHh7Xx6DdpPcffi2aQ5IyBP0534sNSDNxVupTazmglY00OOHCc_dp9G8DLR6EJG9IuXVZhC.BIviIwB_UdS2WY.D_xZSvwQEQCnh.fb0YmGKI7e8x0LxRZeHW8dQfXZ6OJr9BVws4v5lm9wszsqpLn.WUGk40Hz0RLpxdwGZHOmex0LGX9b.9.MZEvoiVmUsough9G0Jum_1hqpoaLWW.DGUdq1I0W6R2grv_dP45zVzABACTrnrwJsSmkUvq1y.VvISY.nMB7ZFf4HroQ6fgK5YAaAy_sBpWjxXLW6uh69uvXkBTwfGKvSUG7sf9bUzuih60DoQISs1wLFEu3qadplPygphxX7VrL7KJOa81Z1RmWgu9PiUFJMPXsdzXMd3KhgNTGfBzXa0cKizFGIRdF1VgPuf1I5miN5hf9T2oLwiq9nY6rsZz4e2KowaAPtUg.lP9vXnLlYXeviP_qPxBrnKlwBr4S5UD90h.A8wfPrDW8X28XzXyVwBmeji2j97w806Ns9ZNzRb1NMiBE9Pyt.pFl5oKkVaEwO6_eajzBSTwa55n_9d4gBqjfbY8ZRxOanbOXb2LnbvuhEUhUFAbCcTQSOBSCtW6wliIAAa16VSiDnFXsp0RLXeIG6099fwyc8dQEIwtUD.hQGo8nKhGwbgB9Ji_3IJPAMyinc4KjMvEFRT1kLSsVd.3EWQ2u_RlYOX9XUEQXC2IMle2WOHTTrIqdJcSaSbEDYSNq80pIxTyTI6t6z3KZkzKWzVl3kuIbBEjaZiP32L9zfraGIFkgykAIrv4K8Yd288ArJHwUJYAgwKrlyZquLaWvB_yNYM7h8oTW_7M8vRiZjwyjnjSzHf2eH3CSo5QtxqujriRtYwrWebP1O7xFQ5AdaUHOOhoCkBMeqo6LrJgXIrcoMgeDFRMCulnYFQ3dRfr0qit3321jvPXP3IZrtXcut9QkrTIh8rNAghfpZ5dg25y_duhSvjVr7XJP1nMGcx5XrzqWYyymraurwo7gQJh8G6DUX7FetQ97vti0aoeNPT3UTOSuDBK9i5Uica3orSS__dTDK8Kx6kMxL7KRdlk7O6w4HTor15sAClenRes0uPRvIP3w89urlEcSythLPAhEOAxprka1IcrVSd8aDjaezh_pWGrQ4bM63SeKREWaS3PMtjrRfLdV3QSIjpi0TAWaGko95wTsXxIIHg.sRFjef_nzhKXhMxglQPspbBPvpzW_lMp7ag6d9YXYBinyoQSvRis.Q_BQDXQL9p2W09R7GHDFAleQObAvBg_69ttOi6wGtcdI3fHnzkn0_11WYpJ11o1d8n8BxK9GSvblgQNl2JfRH5o5RZHYhrj1n1VUDo8eLa.QhQ40ebbAaqBzO3UpobfBARA3UKXsExsVS.lA7lHT6lGl9nPR3IM5s4zrANIMcLdgzf8cQ3eBAPjgfHr2zpMWQwbEGPlwUZc3LA',mdrd: 'oEjQlteK54a5genxDwYJcOfcYAEY50UQP.v08GHYMB4-1782387190-1.2.1.1-_4Mp14JRPQYxNqIDAOu3HmJmWLHbqiLZSX.HPZeqxcGe16hA1gT1IRTakFSJvXGOKrPP6CNkZGcnqWFTocX4pxx.UL_0D1P01jM3VmH2MoBLw1oQL_uS3DU98mmUPoxtpG6oNQ7vT0Pg8LgdMKjg2FsEKrn6wXAylv0PMHCW1DjtqKfqWyf1Zp7Q0imcb8sbN.2yhNanSbIImzuIsn5amGjb6OvmbwUQ1rUN3pMeLQsbnxQ8wcTwDfFiD0ILP_3OK1gsGpufiq4SiEpCsnQ62XV_PSG2qDHI7HOB0PR9oSCJDEFqkh3cOlAyEHGtyhaGIpmlKZO4VQsgbXWF9vTPYKeymXE0Z._ZjP6n3DKRAwRSZVV3sAWaf6xJxCiYJzNRe6xXpv3KYDSdpH5qwBbfdhFLwKbOR0rhC_c_ltFtqY.JtOFMNzTx4W2MgdZHPZFzq4OE90vZaP8FvYLvOBN_3a4yzyWfbmQvl_y0aSjTrcKZsgZvZaYtup09i4ZbXxfFHyQ1zeeCtGRF3JPHsEHjJdb.2qcDVem9MUlDAk3_zXwP_8DoMEZJFK.woo6GH9KR.vNDkMvX2u7dEbX5cR6flhMJHInmo36ejffYWQ2eqa2SpBtkaSiLM_6PHlCTjofNz6lzW7WzefOPwKVZiyYj1iWRDjC_qCrBh4XB0w7xrldAlDJQXZ5IN5CZwrw2qcPLcaTJ_q.m5Ci5ypwxd6vTOPGxrxxjgrxmCFfe72u8jUHZaCvsJyiz9vyMGl4ooosFl5YkTT1qnJ9DukX0QFiwtgWK6H55apBquwdsFfcEbWhfTPh8HgRzOEBUKCLpor1JpU8dWG.TyGoNmJTP6Aqi3.SfFHcK8jVCudUNjvc6wI4',};var a = document.createElement('script');a.nonce = '5nlQlIZMlpb3aPxEUDRpby';a.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=a113a7e21e8c4b73';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,"/api/organizations/1e897cd8-b169-465a-832f-a7f89d6d956d/conversations/bb3ae5b8-48a9-4857-acd7-6b1e786dc574/wiggle/download-file?path=%2Fmnt%2Fuser-data%2Foutputs%2FREADME.md\u0026__cf_chl_rt_tk=VcXHDBJI8KA9obQWdXaxL.a8lzDNgVm_7roDx5wwcws-1782387190-1.0.1.1-XnKcLa0_D7tAo9O_lJOjINUpkJhu3JlTETLuqAVyicQ"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>
+<div align="center">
+
+```
+~/github/$ cat README.md
+```
+
+# Abubeker Abdulaziz
+
+**Software Developer** · Backend & Systems · Building scalable enterprise solutions from 🇪🇹 Ethiopia
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Abubeker95&color=00e5cc&style=flat-square&label=profile+views)](https://github.com/Abubeker95)
+
+</div>
+
+---
+
+## `// about`
+
+- 🌍 Based in **Addis Ababa, Ethiopia**
+- 💼 Working on **enterprise-level applications and management systems**
+- 🔭 Focused on **Backend Development, System Design, Databases & Cloud Technologies**
+- 🌱 Always learning and improving my development skills
+- ⚡ Passionate about building **scalable web applications and backend systems**
+
+---
+
+## `// tech stack`
+
+**Languages**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=database&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Tools & Technologies**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+## `// github stats`
+
+<div align="center">
+
+![Abubeker's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abubeker95&show_icons=true&theme=github_dark&hide_border=true&title_color=00e5cc&icon_color=00e5cc&text_color=e6edf3&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abubeker95&layout=compact&theme=github_dark&hide_border=true&title_color=00e5cc&text_color=e6edf3&bg_color=0d1117)
+
+</div>
+
+---
+
+## `// connect`
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abubeker95)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Abubeker95)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Built with ☕ and clean code from Addis Ababa 🇪🇹</sub>
+</div>
